@@ -5,38 +5,50 @@
 <h1 align="center">Bart</h1>
 
 <p align="center">
-  Software Development • Web • Systems
+  Software Developer • Web Systems • Automation
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+web+applications;Creating+automation+systems;Learning+and+shipping+code" />
 </p>
 
 ---
 
-## 🧠 About
-I’m focused on software development, building applications, automations and web systems.
+## 🧠 Profile
+Focused on software development and system building.  
+Working on practical projects involving web applications, automation and backend structure.
 
-Currently studying and improving skills in both front-end and back-end development, with emphasis on structure, performance and practical implementation.
+Constantly improving technical skills through real-world implementations and experimentation.
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🧩 Projects
-- 💻 Web applications  
-- ⚙️ Automation scripts  
-- 🌐 Landing pages  
-- 🛠️ System experiments  
+## 🧩 What I Build
+- 🌐 Web applications (front-end + back-end)  
+- 🤖 Automation scripts and tools  
+- ⚙️ Systems and integrations  
+- 🛠️ Experimental projects  
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning Focus
 - Backend development  
-- System architecture  
-- Performance optimization  
 - APIs and integrations  
+- System design  
+- Performance and scalability  
+
+---
+
+## 📊 Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -46,8 +58,3 @@ Currently studying and improving skills in both front-end and back-end developme
     <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Notes
-Focused on building real projects and improving technical skills consistently.
