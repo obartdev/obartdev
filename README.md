@@ -2,39 +2,52 @@
   <img src="banner.png" style="max-width: 100%; height: auto;" />
 </p>
 
-<h1 align="center">👋 Fala, eu sou o Bart</h1>
+<h1 align="center">Bart</h1>
 
 <p align="center">
-  💻 Desenvolvimento de software | 🌐 Web | ⚙️ Sistemas
+  Software Development • Web • Systems
 </p>
 
 ---
 
-## 🧠 Sobre mim
-- 💻 Estudando desenvolvimento (Front-end + Back-end)
-- ⚙️ Foco em criação de sistemas e automações
-- 🌐 Interesse em web, performance e estrutura
-- 📚 Evolução contínua na área de tecnologia
+## 🧠 About
+I’m focused on software development, building applications, automations and web systems.
+
+Currently studying and improving skills in both front-end and back-end development, with emphasis on structure, performance and practical implementation.
 
 ---
 
-## 🚀 Tecnologias
+## ⚙️ Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🧩 Projetos
-- 💻 Aplicações web
-- 🤖 Automações
-- ⚙️ Scripts e sistemas
+## 🧩 Projects
+- 💻 Web applications  
+- ⚙️ Automation scripts  
+- 🌐 Landing pages  
+- 🛠️ System experiments  
 
 ---
 
-## 📫 Contato
+## 📚 Currently Learning
+- Backend development  
+- System architecture  
+- Performance optimization  
+- APIs and integrations  
+
+---
+
+## 📫 Contact
 <p align="center">
   <a href="https://wa.me/5541991079610">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## ⚡ Notes
+Focused on building real projects and improving technical skills consistently.
