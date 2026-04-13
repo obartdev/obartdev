@@ -5,20 +5,19 @@
 <h1 align="center">Bart</h1>
 
 <p align="center">
-  Software Developer • Web Systems • Automation
+  Software Developer • Web Systems • Automation • AI
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+web+applications;Creating+automation+systems;Learning+and+shipping+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+web+applications;Developing+AI+solutions;Creating+automation+systems" />
 </p>
 
 ---
 
 ## 🧠 Profile
-Focused on software development and system building.  
-Working on practical projects involving web applications, automation and backend structure.
+Focused on software development, automation and artificial intelligence.
 
-Constantly improving technical skills through real-world implementations and experimentation.
+Working on practical projects involving web applications, backend systems and AI-based solutions, always aiming for real implementation and performance.
 
 ---
 
@@ -32,16 +31,16 @@ Constantly improving technical skills through real-world implementations and exp
 ## 🧩 What I Build
 - 🌐 Web applications (front-end + back-end)  
 - 🤖 Automation scripts and tools  
+- 🧠 AI-based projects and experiments  
 - ⚙️ Systems and integrations  
-- 🛠️ Experimental projects  
 
 ---
 
 ## 📚 Learning Focus
+- Artificial Intelligence (AI)  
 - Backend development  
 - APIs and integrations  
-- System design  
-- Performance and scalability  
+- System design and scalability  
 
 ---
 
@@ -62,5 +61,5 @@ Constantly improving technical skills through real-world implementations and exp
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
