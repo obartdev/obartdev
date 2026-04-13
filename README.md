@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SEUUSUARIO/SEUUSUARIO/raw/main/banner.png" />
+  <img src=banner.png" />
 </p>
 
 <h1 align="center">👋 Fala, eu sou o Bart</h1>
