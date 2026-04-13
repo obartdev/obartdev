@@ -25,14 +25,6 @@
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=obartdev&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obartdev&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
 ## 🧩 Projetos
 - 💻 Aplicações web
 - 🤖 Automações
