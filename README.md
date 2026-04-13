@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner.png" style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center">👋 Fala, eu sou o Bart</h1>
